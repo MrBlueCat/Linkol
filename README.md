@@ -1,0 +1,2 @@
+# Linkol
+Repository for study
